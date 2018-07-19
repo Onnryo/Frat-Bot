@@ -1,0 +1,5 @@
+*.bak
+*.json
+settings/
+sound/
+spongemock/
